@@ -31,10 +31,17 @@ _We want to maintain our color system as minimal as possible, especially for wha
 
 **Token Icons**
 <img width="" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
-
+**tic Logo**
+<img width="" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 ![tic-circle](https://user-images.githubusercontent.com/16773608/159569838-6fee7dd6-fd73-4525-8a39-afcbad409041.png)
-
 <img width="400" alt="tic-square" src="https://user-images.githubusercontent.com/16773608/159569902-10a5c350-ebf1-4fc2-b5e1-701fe0fa704e.png">
+
+**ELP Logo**
+<img width="" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
+![elp-circle-400x](https://user-images.githubusercontent.com/16773608/163873594-08c18c36-3a92-4d9c-b086-9573ed3eedc4.png)
+![elp-square-400x](https://user-images.githubusercontent.com/16773608/163873413-f527499a-d15c-4efa-b943-80a3b7947005.png)
+
+
 
 **Marketing/Promo Material** <br>
 <img width="" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
