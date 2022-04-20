@@ -34,6 +34,9 @@ _We want to maintain our color system as minimal as possible, especially for wha
 ![tic-circle](https://user-images.githubusercontent.com/16773608/164285143-2ebdb175-049b-412a-9e97-fe98e292a9e3.png)
 ![tic-square](https://user-images.githubusercontent.com/16773608/164284950-23ca6fad-70b5-413d-afec-9b7a45557633.png)
 
+![elp-circle-400x](https://user-images.githubusercontent.com/16773608/164285852-225ba02f-972a-49fb-ac62-197b53a40888.png)
+![elp-square-400x](https://user-images.githubusercontent.com/16773608/164285856-585fd3fa-93af-4cb3-bd61-378bd437fe4d.png)
+
 
 
 **Marketing/Promo Material** <br>
