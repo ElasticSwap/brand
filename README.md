@@ -28,13 +28,22 @@ _We want to maintain our color system as minimal as possible, especially for wha
 
 ![colors](https://user-images.githubusercontent.com/16773608/159567656-09303bde-b095-4226-bb58-e469e993fc62.png)
 
-
 **Token Icons**
 <img width="" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
+![tic-circle](https://user-images.githubusercontent.com/16773608/164285143-2ebdb175-049b-412a-9e97-fe98e292a9e3.png)
+![tic-square](https://user-images.githubusercontent.com/16773608/164284950-23ca6fad-70b5-413d-afec-9b7a45557633.png)
 
-![tic-circle](https://user-images.githubusercontent.com/16773608/159569838-6fee7dd6-fd73-4525-8a39-afcbad409041.png)
+![elp-circle-400x](https://user-images.githubusercontent.com/16773608/164285852-225ba02f-972a-49fb-ac62-197b53a40888.png)
+![elp-square-400x](https://user-images.githubusercontent.com/16773608/164285856-585fd3fa-93af-4cb3-bd61-378bd437fe4d.png)
 
-<img width="400" alt="tic-square" src="https://user-images.githubusercontent.com/16773608/159569902-10a5c350-ebf1-4fc2-b5e1-701fe0fa704e.png">
+**Additional Icons**
+<img width="" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
+![tic-ampl-elp (2)](https://user-images.githubusercontent.com/16773608/164533998-6d8f5cce-0b7e-4327-b195-3cc666a6ae7a.png)
+![tic-usdc-elp (1)](https://user-images.githubusercontent.com/16773608/164534060-dc1a113d-b79e-483e-8809-d2b318cd1c0c.png)
+
+![ampl-tic-elp1](https://user-images.githubusercontent.com/16773608/164533671-658188c4-d6a0-4ff1-abe4-16849bcbaee1.png)
+![ampl-usdc-elp1](https://user-images.githubusercontent.com/16773608/164533302-23c61a02-84f4-42ab-8d3a-288de21a11c4.png)
+
 
 **Marketing/Promo Material** <br>
 <img width="" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
@@ -44,6 +53,8 @@ _We want to maintain our color system as minimal as possible, especially for wha
 <img width="1050" alt="ample" src="https://user-images.githubusercontent.com/16773608/159818573-32f51271-339e-4b5f-ba6b-af05f6bd8c9f.png">
 ![medium-v2-1500x500](https://user-images.githubusercontent.com/16773608/159819394-29f5497f-d028-4eb9-ac4b-cac61f8b2207.jpg)
 
+
+![ampleforth-elastic](https://user-images.githubusercontent.com/16773608/164534469-e3acc9f8-ce1b-4b90-a82f-1caebed441f5.png)
 
 
 **Font** <br>
