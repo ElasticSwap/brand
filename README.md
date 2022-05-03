@@ -31,10 +31,18 @@ _We want to maintain our color system as minimal as possible, especially for wha
 
 **Token Icons**
 <img width="" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
-
-![tic-circle](https://user-images.githubusercontent.com/16773608/159569838-6fee7dd6-fd73-4525-8a39-afcbad409041.png)
-
+400px
+<img width="400" alt="tic-circle2" src="https://user-images.githubusercontent.com/16773608/166479540-d99d4349-18a9-4941-aaff-b23c921778ed.png">
 <img width="400" alt="tic-square" src="https://user-images.githubusercontent.com/16773608/159569902-10a5c350-ebf1-4fc2-b5e1-701fe0fa704e.png">
+
+100px
+<img width="100" alt="tic-circle100px2" src="https://user-images.githubusercontent.com/16773608/166481806-810b7e70-172f-467c-a632-5ba13d872b97.png">
+<img width="100" alt="tic-square100px" src="https://user-images.githubusercontent.com/16773608/166481799-fb8c1374-60b9-4e7e-8491-50e88260cb2d.png">
+
+
+
+
+
 
 **Marketing/Promo Material** <br>
 <img width="" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
